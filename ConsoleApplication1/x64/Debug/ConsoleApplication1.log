@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\NOBEL\Desktop\Scissors paper stone - edited\ConsoleApplication1\clsRound.h(28,6): warning C4091: 'static ': ignored on left of 'clsRound::enRoundWinner' when no variable is declared
+  ConsoleApplication1.vcxproj -> C:\Users\NOBEL\Desktop\Scissors paper stone - edited\x64\Debug\ConsoleApplication1.exe
